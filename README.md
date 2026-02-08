@@ -19,3 +19,8 @@ Projeto desenvolvido após a graduação em Análise e Desenvolvimento de Sistem
 - Service
 - Repository
 - DTOs
+
+## Documentação da API
+
+A documentação da API pode ser acessada via Swagger:
+http://localhost:8080/swagger-ui.html
